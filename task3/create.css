@@ -1,0 +1,28 @@
+body{
+	width:40%;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:black;
+	
+    }
+div.slice{
+	border-width:1px;
+	border-color:blue;
+	border-style:solid;
+	background-image:url("pink.jpeg");
+	background-repeat:no-repeat;
+	background-size:620px 1500px;
+    }
+h1{
+	text-align:center;
+	color:yellow;
+	font-size:35px;
+     }
+table{
+	font-size:25px;
+     }
+a{
+	text-decoration:none;
+	color:blue;
+	
+     }
